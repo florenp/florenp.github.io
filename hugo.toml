@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://florenp.github.io//'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'AFBC Coach'
 theme = 'ananke'
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'

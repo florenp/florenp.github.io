@@ -3,10 +3,7 @@
     extended = true
     min = "0.62.0"
 
-[[menu.shortcuts]]
-name = "<i class='fas fa-tags'></i> Tags"
-url = "/tags"
-weight = 30
+
 
 [params]
   # site default theme ["auto", "light", "dark"]

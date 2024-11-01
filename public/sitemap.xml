@@ -2,11 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/posts/my-second-post/</loc><lastmod>2024-10-14T16:23:37&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2024-10-14T16:23:37&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/</loc><lastmod>2024-10-14T16:23:37&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2024-10-14T16:23:37&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/u9/</loc><lastmod>2024-10-14T16:23:37&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/my-first-post/</loc><lastmod>2024-10-14T16:12:56&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/u7/</loc><lastmod>2024-10-14T16:12:56&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2024-10-15T10:09:23&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/echauffement/</loc><lastmod>2024-10-15T10:09:23&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2024-10-15T10:09:23&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/queue-du-loup/</loc><lastmod>2024-10-15T10:09:23&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2024-10-15T10:09:23&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/u7/</loc><lastmod>2024-10-15T10:09:23&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/nettoyons-la-raquette/</loc><lastmod>2024-10-15T10:09:10&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/mirroir/</loc><lastmod>2024-10-15T10:08:57&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/passage-capitaine/</loc><lastmod>2024-10-15T10:08:18&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/salade/</loc><lastmod>2024-10-14T16:23:37&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/pompiers-pyromane/</loc><lastmod>2024-10-14T16:12:56&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/categories/</loc></url></urlset>

@@ -33,7 +33,16 @@
     <pubDate>Fri, 01 Nov 2024 16:48:40 &#43;0100</pubDate>
     <author>Author</author>
     <guid>http://localhost:1313/posts/1-2-3-soleil/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[<p></p>
+<h3 id="matériel">Matériel</h3>
+<p>1 ballon par joueur</p>
+<h3 id="déroulement">Déroulement</h3>
+<p>Les enfants ont chacun un ballon et sont sur une ligne à une dizaine de mètres de leur camarade
+qui est au niveau d’un mur.<br>
+Ce dernier se met face au mur et annonce le « 1, 2, 3 soleil »,
+pendant ce temps, les enfants avancent en dribble vers le mur.</p>
+<p>Si un enfant bouge ou ne réussit pas à stopper son dribble lorsque leur camarade se retourne, l’enfant doit repartir sur la ligne de
+départ.</p>]]></description>
 </item>
 <item>
     <title>Horloge Basket</title>
@@ -41,7 +50,10 @@
     <pubDate>Fri, 01 Nov 2024 16:45:36 &#43;0100</pubDate>
     <author>Author</author>
     <guid>http://localhost:1313/posts/horloge-basket/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[<h3 id="matériel">Matériel</h3>
+<p>1 ballon par joueur</p>
+<h3 id="déroulement">Déroulement</h3>
+<h3 id="evolutions">Evolutions</h3>]]></description>
 </item>
 <item>
     <title>Queue Du Loup</title>
@@ -60,12 +72,17 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Mirroir</title>
+    <title>Jeu du mirroir</title>
     <link>http://localhost:1313/posts/mirroir/</link>
     <pubDate>Tue, 15 Oct 2024 10:08:57 &#43;0200</pubDate>
     <author>Author</author>
     <guid>http://localhost:1313/posts/mirroir/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[<h3 id="matériel">Matériel</h3>
+<p>1 ballon par enfant</p>
+<h3 id="déroulement">Déroulement</h3>
+<p>Les joueurs se mettent en groupe de 2 personnes, l&rsquo;un en face de l&rsquo;autre.</p>
+<p>L&rsquo;un des joueurs doit reproduire les mêmes gestuelles que son coéquipier.</p>
+<p>L&rsquo;exercice peut également évoluer en mouvement. Le joueur &ldquo;suiveur&rdquo; doit réaliser les mêmes mouvements. Dribble, saut, etc&hellip;</p>]]></description>
 </item>
 <item>
     <title>Passe au Capitaine</title>

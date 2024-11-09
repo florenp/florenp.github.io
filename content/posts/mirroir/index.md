@@ -2,7 +2,8 @@
 title = 'Jeu du mirroir'
 date = 2024-10-15T10:08:57+02:00
 draft = false
-tags= ["u7"]
+tags= []
+categories = ["u7"]
 +++
 
 ### Matériel

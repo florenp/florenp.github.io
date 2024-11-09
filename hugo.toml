@@ -13,7 +13,20 @@ theme = "loveit"
   [params.footer]
     enable = false
 
-[[menu.shortcuts]]
-name = "<i class='fas fa-tags'></i> Tags"
-url = "/tags"
-weight = 30
+[menus]
+  [[menus.main]]
+    name = 'u7'
+    pageRef = '/categories/u7'
+    weight = 10
+  [[menus.main]]
+    name = 'u9'
+    pageRef = '/categories/u9'
+    weight = 20
+  [[menus.main]]
+    name = 'u11'
+    pageRef = '/categories/u11'
+    weight = 30
+  [[menus.main]]
+    name = 'u13'
+    pageRef = '/categories/u13'
+    weight = 40

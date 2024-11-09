@@ -2,7 +2,8 @@
 title = 'Passe au Capitaine'
 date = 2024-10-15T10:08:18+02:00
 draft = false
-tags= ["u7", "passe"]
+tags= ["passe"]
+categories = ["u7"]
 +++
 
 ![alt](passe-capitaine.jpg)

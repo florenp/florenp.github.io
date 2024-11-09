@@ -1,5 +1,5 @@
 baseURL = 'https://florenp.github.io/'
-languageCode = 'en-us'
+defaultContentLanguage = 'fr'
 title = 'AFBC'
 theme = "loveit"
 

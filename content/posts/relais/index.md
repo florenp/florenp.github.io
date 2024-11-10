@@ -6,6 +6,8 @@ tags = []
 categories = ["u7"]
 +++
 
+![alt](relais.png)
+
 ### Matériel
 
 * 2 équipes ou plus

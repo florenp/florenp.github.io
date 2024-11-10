@@ -21,7 +21,7 @@ Au signal de l'éducateur, il doit attraper la queue des autres joueurs.
 
 Si un joueur perd sa queue, il doit s'arrêter et faire tourner le ballon 3 fois autour de la taille.
 
-### Evolutions
+### Variantes
 
 Organiser le jeu avec 2 équipes. Chaque équipe aura une couleur de chasuble différente.
 

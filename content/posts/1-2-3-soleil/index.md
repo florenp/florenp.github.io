@@ -27,7 +27,7 @@ Le dernier enfant qui arrive au mur deviendra « l’annonceur » du « 1, 2, 3 
 
 Le premier enfant qui touche à deux reprises le mur le premier remporte le jeu.
 
-### Evolutions
+### Variantes
 
 Demander à l’enfant qui est au niveau du mur de dire plus ou moins vite le « 1, 2, 3 soleil ».
 

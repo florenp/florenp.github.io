@@ -25,6 +25,6 @@ Dans le même temps, les joueurs de l’équipe adverse se font des passes en ro
 
 A la fin de la manche, les rôles sont inversés.
 
-### Evolutions
+### Variantes
 
 Lorsqu’un panier est marqué, l’équipe de l’horloge enlève un tour.

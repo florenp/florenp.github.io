@@ -6,10 +6,15 @@ tags = ["organisation"]
 categories = ["u7"]
 +++
 
+### 19/11/2024
+
+* 1-2-3 soleil
+* Jacques a dit
+* Passe au capitaine
+* Match
+
 ### 12/11/2024
 
-* Jacques a dit
+* Epervier
 * Déménageurs
-* Relais
-* Passe au capitaine
 * Match

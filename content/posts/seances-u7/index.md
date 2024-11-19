@@ -6,6 +6,14 @@ tags = ["organisation"]
 categories = ["u7"]
 +++
 
+### 26/11/2024
+
+* 4 ateliers
+  * Tour du monde
+  * Relais
+  * Passe à 10
+  * ??
+
 ### 19/11/2024
 
 * 1-2-3 soleil

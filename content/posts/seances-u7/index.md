@@ -8,11 +8,8 @@ categories = ["u7"]
 
 ### 26/11/2024
 
-* 4 ateliers
-  * Tour du monde
-  * Relais
-  * Passe à 10
-  * ??
+* Épervier
+* Tour du monde
 
 ### 19/11/2024
 

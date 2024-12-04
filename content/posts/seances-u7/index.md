@@ -6,6 +6,12 @@ tags = ["organisation"]
 categories = ["u7"]
 +++
 
+### 03/12/2024
+
+* Épervier
+* Relais slalom/tour de plot/shoot
+* Match
+
 ### 26/11/2024
 
 * Épervier
